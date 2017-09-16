@@ -6,3 +6,8 @@ This repository contains more icons, including ones of very specific projects, s
 
 License: GNU LGPL, just like Breeze (see `LICENSE` for more details)
 
+## Installing 
+
+If you have the needed dependencies, installing the icons is very easy. Assuming your Breeze installation lives under `/usr` (true for most distributions):
+
+`mkdir build && cd build && cmake -DCMAKE_INSTALL_PREFIX=/usr .. && sudo make install`
