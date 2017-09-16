@@ -13,7 +13,7 @@ set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR} ${CMAKE_CURRENT_S
 include(KDEInstallDirs)
 include(KDECMakeSettings)
 include(KDECompilerSettings NO_POLICY_SCOPE)
-include(GtkUpdateIconCache)
+#include(GtkUpdateIconCache)
 
 option(SKIP_INSTALL_ICONS "Skip installing the icons files" OFF)
 
@@ -26,9 +26,8 @@ set(BREEZE_INSTALL_DIR ${KDE_INSTALL_FULL_ICONDIR}/breeze)
 
 if (NOT SKIP_INSTALL_ICONS)
     install( DIRECTORY ${breeze_icon_dirs} DESTINATION ${BREEZE_INSTALL_DIR} )
-    install( FILES index.theme DESTINATION ${BREEZE_INSTALL_DIR})
 endif()
 
-gtk_update_icon_cache(${BREEZE_INSTALL_DIR})
+#gtk_update_icon_cache(${BREEZE_INSTALL_DIR})
 
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES INCLUDE_QUIET_PACKAGES)
