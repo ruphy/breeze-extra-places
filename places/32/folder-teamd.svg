@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   version="1.1"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-teamd.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="13.852288"
+     inkscape:cy="13.281192"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4159" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4172-5">
+      <stop
+         style="stop-color:#3daee9"
+         id="stop4174-6" />
+      <stop
+         offset="1"
+         style="stop-color:#6cc1ef"
+         id="stop4176-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4342"
+       xlink:href="#linearGradient4172-5"
+       y1="29"
+       y2="8"
+       gradientUnits="userSpaceOnUse"
+       x2="0" />
+  </defs>
+  <metadata
+     id="metadata5458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1 0 0 1 -384.57143 -515.798)">
+    <g
+       inkscape:label="Capa 1"
+       id="layer1-0"
+       transform="matrix(1 0 0 1 -0.000006 0)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#147eb8;fill-rule:evenodd"
+         id="path4308"
+         d="m 386.57144,518.798 0,7 0,1 28,0 0,-6 -14.00001,0 -2,-2 z" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill-opacity:0.235294;fill-rule:evenodd"
+         id="path4306"
+         d="m 397.57143,523.798 -1.99999,1 -9,0 0,1 6.99999,0 3,0 z" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4342)"
+         id="rect4294"
+         d="m 13,8 -2,2 -9,0 -1,0 0,19 11,0 1,0 18,0 0,-21 -18,0 z"
+         transform="matrix(1 0 0 1 384.57143 515.798)" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd"
+         id="path4304"
+         d="m 397.57143,523.798 -2,2 -10,0 0,1 11,0 z" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd"
+         id="path4310"
+         d="m 398.57143,518.798 1,3 15.00001,0 0,-1 -14.00001,0 z" />
+      <rect
+         width="30"
+         x="385.57144"
+         y="543.79797"
+         height="1"
+         style="fill-opacity:0.235294"
+         id="rect4292" />
+    </g>
+    <g
+       transform="matrix(0.07099706,0,0,0.07099706,378.03965,501.07004)"
+       id="g4191"
+       style="fill:#1272a5;fill-opacity:1">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.39343262px;line-height:1000%;font-family:'DINbek Bold';-inkscape-font-specification:'DINbek Bold, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1272a5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="g4193">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 398.25266,467.02638 q 0,24.73304 -1.26837,32.97738 -3.1709,20.92795 -17.75704,31.92041 -14.37476,10.99246 -35.93689,10.99246 l -54.32811,0 0,-150.51213 54.32811,0 q 21.35074,0 35.72549,10.78107 14.58615,10.78106 17.96844,31.49762 1.26837,7.82156 1.26837,32.34319 z m -29.38369,0 0,-13.10639 q 0,-8.66713 -1.05697,-12.47221 -1.26836,-8.66713 -5.28484,-13.52918 -7.61016,-9.30131 -21.98491,-9.30131 l -22.19631,0 0,98.08655 22.19631,0 q 14.37475,0 21.98491,-9.30131 4.65066,-5.70762 5.91902,-19.4482 0.42279,-4.65065 0.42279,-20.92795 z"
+           id="path4195"
+           style="fill:#1272a5;fill-opacity:1" />
+      </g>
+      <circle
+         style="opacity:1;fill:#1272a5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4197"
+         cx="242.89978"
+         cy="446.26193"
+         r="18.328348" />
+    </g>
+  </g>
+</svg>

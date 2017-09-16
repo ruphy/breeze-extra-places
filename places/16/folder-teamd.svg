@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-teamd.svg">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-16.455158"
+     inkscape:cy="15.993025"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4149" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+  <g
+     transform="matrix(0.06823599,0,0,0.06823599,-13.067303,-23.504497)"
+     id="g4191"
+     style="fill:#4d4d4d;fill-opacity:1">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.39343262px;line-height:1000%;font-family:'DINbek Bold';-inkscape-font-specification:'DINbek Bold, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="g4193">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 398.25266,467.02638 q 0,24.73304 -1.26837,32.97738 -3.1709,20.92795 -17.75704,31.92041 -14.37476,10.99246 -35.93689,10.99246 l -54.32811,0 0,-150.51213 54.32811,0 q 21.35074,0 35.72549,10.78107 14.58615,10.78106 17.96844,31.49762 1.26837,7.82156 1.26837,32.34319 z m -29.38369,0 0,-13.10639 q 0,-8.66713 -1.05697,-12.47221 -1.26836,-8.66713 -5.28484,-13.52918 -7.61016,-9.30131 -21.98491,-9.30131 l -22.19631,0 0,98.08655 22.19631,0 q 14.37475,0 21.98491,-9.30131 4.65066,-5.70762 5.91902,-19.4482 0.42279,-4.65065 0.42279,-20.92795 z"
+         id="path4195"
+         style="fill:#4d4d4d;fill-opacity:1" />
+    </g>
+    <circle
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4197"
+       cx="242.89978"
+       cy="446.26193"
+       r="18.328348" />
+  </g>
+</svg>
